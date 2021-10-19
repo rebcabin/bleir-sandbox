@@ -1,1 +1,0 @@
-("8.2" ta6le ("a4835c151ad8ca8dce21ab58cf4948e4b605b246" . "6ee605b61a4fc86f8010439ea11daae482e8bd4d") (collects #"bleir-sandbox" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"manual" #"lang" #"reader.rkt") (collects #"scribble" #"manual" #"lang.rkt"))

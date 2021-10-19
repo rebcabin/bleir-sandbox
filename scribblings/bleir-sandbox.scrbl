@@ -1,6 +1,5 @@
 #lang scribble/manual
-@require[@for-label[bleir-sandbox
-                    racket/base]]
+@require[@for-label[bleir-sandbox]]
 
 @title{bleir-sandbox}
 @author{bcbeckman}
