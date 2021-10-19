@@ -1,6 +1,7 @@
 #lang info
 (define collection "bleir-sandbox")
-(define deps '("beautiful-racket-lib"
+(define deps '("wxme-lib"
+               "beautiful-racket-lib"
                "base"))
 (define build-deps '("wxme-lib"
                      "scribble-lib" "racket-doc" "rackunit-lib"))
