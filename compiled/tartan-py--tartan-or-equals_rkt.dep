@@ -1,0 +1,1 @@
+("8.2" ta6le ("bfd5d0d0f3941dd8df53fd830ffbc4545b485d0b" . "9ed6a33c8afc8abe83b1b379ddbbc0482a2b312d") (collects #"bleir-sandbox" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"wxme" #"read.rkt"))
