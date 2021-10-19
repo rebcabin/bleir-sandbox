@@ -1,3 +1,5 @@
+# Legacy scheme file types
+
 *.ss~
 *.ss#*
 .#*.ss
@@ -6,6 +8,19 @@
 *.scm#*
 .#*.scm
 
+# Backups and binaries
+
 *.rkt~
 *.zo
 *.dep
+*.gdr~
+
+# Temporary files created for safety
+
+.#.gitignore
+.#*.rkt
+.#*.gdr
+
+# DrRacket's fat, annotated files
+
+*.gdr
