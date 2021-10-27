@@ -1,5 +1,6 @@
 #lang br/quicklang
 
+;;; Boilerplate for "re-exporting" the reader from "br/quicklang."
 (module reader br/quicklang
   (provide read-syntax)
   (define (read-syntax name port)
